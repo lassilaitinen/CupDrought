@@ -1,0 +1,30 @@
+.teamlist {
+    border: 1px solid;
+    height: 85vh;
+    overflow-y: auto;
+    margin-right: 1vh;
+    width: 40%;
+}
+
+.team {
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+
+.content {
+    display: flex;
+  flex-direction: row;
+}
+
+.team {
+    width: 95%;
+    margin: 3px;
+}
+
+.teamlist .team:hover {
+    background-color: gray;
+}
+
+.team h2 {
+    color: black;
+}

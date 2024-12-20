@@ -1,0 +1,250 @@
+{
+    "finland":[
+    {
+        "id": 0,
+        "OfficialName": "Helsingin IFK",
+        "name": "IFK",
+        "homeTown": "Helsinki",
+        "established": "1897",
+        "titles": ["1969", "1970", "1974", "1980", "1983", "1998", "2011"],
+        "silver": ["1973", "1975", "1986", "1999", "2016"],
+        "bronze": ["1955", "1959", "1971", "1972", "1982", "1987", "1988", "1992", "2004", "2018", "2021"],
+        "regularseason_titles": ["2016"],
+        "other_titles":[],
+        "since_in_league": "29.12.1949",
+        "last_title_day": "18.4.2011"
+    },
+    {
+        "id":1,
+        "OfficialName": "Hämeenlinnan Pallokerho",
+        "name": "HPK",
+        "homeTown": "Hämeenlinna",
+        "established": "1929",
+        "titles": ["2006","2019"],
+        "silver": ["1952", "1993", "2010"],
+        "bronze": ["1954", "1991", "1997", "1999", "2000", "2002", "2003", "2005", "2007"],
+        "regularseason_titles": ["2003"],
+        "other_titles":[],
+        "since_in_league": "6.10.1988",
+        "last_title_day": "4.5.2019"
+    },
+    {
+        "id":2,
+        "OfficialName": "Tampereen Ilves",
+        "name": "Ilves",
+        "homeTown": "Tampere",
+        "established": "1931",
+        "titles": ["1936", "1937","1938", "1945", "1946", "1947", "1950", "1951", "1952", "1957", "1958", "1960", "1962", "1966", "1972", "1985"],
+        "silver": ["1935", "1948", "1949", "1965", "1968", "1969", "1970", "1990", "1998"],
+        "bronze": ["1934", "1939", "1941", "1943", "1963", "1964", "1967", "1974", "1975", "1983", "1989", "2001", "2022", "2023"],
+        "regularseason_titles": ["1988"],
+        "other_titles":[],
+        "since_in_league": "6.2.1932",
+        "last_title_day": "3.3.1985"
+    },
+    {
+        "id":3,
+        "OfficialName": "Mikkelin Jukurit",
+        "name": "Jukurit",
+        "homeTown": "Mikkeli",
+        "established": "1970",
+        "titles": [],
+        "silver": [],
+        "bronze": [],
+        "regularseason_titles": [],
+        "other_titles":[],
+        "since_in_league": "16.9.2016",
+        "last_title_day": ""
+    },
+    {
+        "id":4,
+        "OfficialName": "JYP Jyväskylä",
+        "name": "JYP",
+        "homeTown": "Jyväskylä",
+        "established": "1923",
+        "titles": ["2009", "2012"],
+        "silver": ["1989", "1992"],
+        "bronze": ["1993", "2010", "2013", "2015", "2017"],
+        "regularseason_titles": ["1992", "2009", "2010", "2011"],
+        "other_titles":[{
+            "competition": "Europhean Trophy",
+            "titles": ["2013"]
+        },
+        {
+            "competition": "Champions Hockey League",
+            "titles": ["2018"]
+        }],
+        "since_in_league": "22.9.1985",
+        "last_title_day": "23.4.2012"
+    },
+    {
+        "id":5,
+        "OfficialName": "Kalevan Pallo",
+        "name": "KalPa",
+        "homeTown": "Kuopio",
+        "established": "1929",
+        "titles": [],
+        "silver": ["1991", "2017"],
+        "bronze": ["2009"],
+        "regularseason_titles": ["2012"],
+        "other_titles":[{
+            "competition": "Mestis",
+            "titles": ["2004", "2005"]
+        }],
+        "since_in_league": "15.9.2005",
+        "last_title_day": ""
+    },
+    {
+        "id":6,
+        "OfficialName": "Kiekko-Espoo",
+        "name": "Kiekko-Espoo",
+        "homeTown": "Espoo",
+        "established": "1984",
+        "titles": [],
+        "silver": ["2008", "2011"],
+        "bronze": [],
+        "regularseason_titles": [],
+        "other_titles":[{
+            "competition": "Mestis",
+            "titles": ["2023"]
+        }],
+        "since_in_league": "10.9.2024",
+        "last_title_day": ""
+    },
+    {
+        "id":7,
+        "OfficialName": "Kouvolan Kookoo",
+        "name": "Kookoo",
+        "homeTown": "Kouvola",
+        "established": "1965",
+        "titles": [],
+        "silver": [],
+        "bronze": [],
+        "regularseason_titles": [],
+        "other_titles":[{
+            "competition": "Mestis",
+            "titles": ["2014"]
+        }],
+        "since_in_league": "11.9.2015",
+        "last_title_day": ""
+    },
+    {
+        "id":8,
+        "OfficialName": "Oulun Kärpät",
+        "name": "Kärpät",
+        "homeTown": "Oulu",
+        "established": "1946",
+        "titles": ["1981", "2004", "2005", "2007", "2008", "2014", "2015", "2018"],
+        "silver": ["1987", "2003", "2009", "2019"],
+        "bronze": ["1980", "1984", "1985", "1986", "2006", "2016", "2024"],
+        "regularseason_titles": ["1987", "2005", "2006", "2007", "2008", "2014", "2015", "2018", "2019", "2020"],
+        "other_titles":[],
+        "since_in_league": "14.9.2000",
+        "last_title_day": "26.4.2018"
+    },
+    {
+        "id":9,
+        "OfficialName": "Rauman Lukko",
+        "name": "Lukko",
+        "homeTown": "Rauma",
+        "established": "1936",
+        "titles": ["1963", "2021"],
+        "silver": ["1961", "1966", "1988"],
+        "bronze": ["1965", "1969", "1994", "1996", "2011", "2014"],
+        "regularseason_titles": ["2021"],
+        "other_titles":[],
+        "since_in_league": "30.9.1984",
+        "last_title_day": "11.5.2021"
+    },
+    {
+        "id":10,
+        "OfficialName": "Lahden Pelicans",
+        "name": "Pelicans",
+        "homeTown": "Lahti",
+        "established": "1996",
+        "titles": [],
+        "silver": ["2012", "2023", "2024"],
+        "bronze": [],
+        "regularseason_titles": [],
+        "other_titles":[],
+        "since_in_league": "16.9.1999",
+        "last_title_day": ""
+    },
+    {
+        "id":11,
+        "OfficialName": "Saimaan Pallo",
+        "name": "SaiPa",
+        "homeTown": "Lappeenranta",
+        "established": "1948",
+        "titles": [],
+        "silver": [],
+        "bronze": ["1966"],
+        "regularseason_titles": [],
+        "other_titles":[],
+        "since_in_league": "19.9.1996",
+        "last_title_day": ""
+    },
+    {
+        "id":12,
+        "OfficialName": "Vaasan Sport",
+        "name": "Sport",
+        "homeTown": "Vaasa",
+        "established": "1962",
+        "titles": [],
+        "silver": [],
+        "bronze": [],
+        "regularseason_titles": [],
+        "other_titles":[{
+            "competition": "Mestis",
+            "titles": ["2009", "2011", "2012"]
+        }],
+        "since_in_league": "12.9.2014",
+        "last_title_day": ""
+    },
+    {
+        "id":13,
+        "OfficialName": "Tampereen Tappara",
+        "name": "Tappara",
+        "homeTown": "Tampere",
+        "established": "1932",
+        "titles": ["1953/TBK", "1954/TBK", "1955/TBK", "1959", "1961", "1964", "1975", "1977", "1979", "1982", "1984", "1986", "1987", "1988", "2003", "2016", "2017", "2022", "2023", "2024"],
+        "silver": ["1958", "1960", "1963", "1974", "1976", "1978", "1981", "2001", "2002", "2013", "2014", "2015", "2018"],
+        "bronze": ["1946/TBK", "1947/TBK", "1948/TBK", "1950/TBK", "1951/TBK", "1956", "1957", "1962", "1973", "1990", "2008", "2019"],
+        "regularseason_titles": ["1977", "1978", "1981", "1984", "1986", "2002", "2017", "2022", "2023", "2024"],
+        "other_titles":[{
+            "competition": "Champions Hockey League",
+            "titles": ["2023"]
+        }],
+        "since_in_league": "4.12.1966",
+        "last_title_day": "28.4.2024"
+    },
+    {
+        "id":14,
+        "OfficialName": "Turun Palloseura",
+        "name": "TPS",
+        "homeTown": "Turku",
+        "established": "1922",
+        "titles": ["1956", "1976", "1989", "1990", "1991", "1993", "1995", "1999", "2000", "2001", "2010"],
+        "silver": ["1943", "1955", "1957", "1967", "1977", "1982", "1985", "1994", "1996", "1997", "2004", "2021", "2022"],
+        "bronze": ["1953", "1978", "1979", "1981"],
+        "regularseason_titles": ["1976", "1980", "1982", "1985", "1989", "1990", "1991", "1993", "1994", "1998", "1999", "2000", "2004"],
+        "other_titles":[],
+        "since_in_league": "1.11.1969",
+        "last_title_day": "28.4.2010"
+    },
+    {
+        "id":15,
+        "OfficialName": "Porin Ässät",
+        "name": "Ässät",
+        "homeTown": "Pori",
+        "established": "1967",
+        "titles": ["1971", "1978", "2013"],
+        "silver": ["1979", "1980", "1984", "2006"],
+        "bronze": ["1976, 1995"],
+        "regularseason_titles": ["1979"],
+        "other_titles":[],
+        "since_in_league": "19.9.1991",
+        "last_title_day": "24.4.2013"
+    }
+
+]}
