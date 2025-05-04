@@ -1,5 +1,5 @@
 import './Specific.css';
-import DroughtCalculator from "./DroughtCalculator";
+import DroughtCalculator from "./Drought_Calculator";
 
 
 function Specific({ specific_team }) {
