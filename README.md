@@ -6,4 +6,4 @@ Alongside showing each team's cup drought, the app shows also a bit more informa
 
 ### Technologies:
 - React, JavaScript
-- Self-made API in json
+- Self-made database in json
